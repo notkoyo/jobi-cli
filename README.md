@@ -40,6 +40,7 @@ npm install -g
 ```bash
 jobi
 ```
+![CLI Main Menu](https://github.com/notkoyo/jobi-cli/blob/main/CLI-Main-Menu.png?raw=true)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
