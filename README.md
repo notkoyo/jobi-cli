@@ -27,8 +27,13 @@ await mongoose.connect(
   );
 ```
 4. Install the tool globally
+- Mac:
 ```bash
 sudo npm install -g
+```
+- Windows:
+```bash
+npm install -g
 ```
 ## Usage
 - Run the tool in the command line
