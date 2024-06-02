@@ -24,7 +24,7 @@ npm install
 ```js
 await mongoose.connect(
     "mongodb+srv://<username>:<password>@jobi-cli.h91g0jt.mongodb.net/<dbName>?retryWrites=true&w=majority&appName=<clusterName>"
-  );
+);
 ```
 4. Install the tool globally
 - Mac:
